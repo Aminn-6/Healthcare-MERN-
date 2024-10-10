@@ -21,6 +21,8 @@ contract Health is ERC20, AccessControl, ReentrancyGuard {
         bool hasClaimedTokens;
     }
 
+    //test2
+
     struct Doctor {
         string name;
         string hospital;
