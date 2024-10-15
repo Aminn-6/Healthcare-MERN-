@@ -52,7 +52,7 @@ The HealthLink Africa dApp consists of the following components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Omardibba50/HealthLInk-dApp.git
+   git clone https://github.com/Aminn-6/HealthLInk-dApp.git
    cd healthlink-dApp
    ```
 
@@ -114,12 +114,12 @@ The application is deployed using a CI/CD pipeline with Jenkins and Kubernetes.
 
 1. Build the Docker image:
    ```
-   docker build -t omardibba/healthlink-frontend:latest .
+   docker build -t Aminn-6/healthlink-frontend:latest .
    ```
 
 2. Push the image to Docker Hub:
    ```
-   docker push omardibba/healthlink-frontend:latest
+   docker push Aminn-6/healthlink-frontend:latest
    ```
 
 3. Apply Kubernetes manifests:
